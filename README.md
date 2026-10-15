@@ -1,158 +1,192 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=2500&pause=700&color=00F7A5&center=true&vCenter=true&width=850&lines=Atharv+Amol+Dhupkar;Full+Stack+Developer+%7C+Python+Developer;AI%2FML+%26+Backend+Engineering;Building+Projects+That+Solve+Real+Problems;root%40atharv%3A~%24+Ready+to+build_" alt="Animated introduction" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=1800&pause=500&color=00FF41&center=true&vCenter=true&width=850&lines=%5B+SYSTEM+BOOT+%5D+ATHARV.DEV;root%40atharv%3A~%23+whoami;FULL+STACK+%7C+PYTHON+%7C+AI%2FML;ACCESS+GRANTED+%3E%3E+WELCOME;CODE.+DEBUG.+DEPLOY.+REPEAT." alt="Animated hacker terminal" />
+
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:001a00,50:003b15,100:00ff41&height=140&section=header&text=ATHARV%20DHUPKAR&fontSize=38&fontColor=00FF41&animation=fadeIn&fontAlignY=55" width="100%" alt="Cyberpunk header" />
 
 <br/>
 
-<img src="https://img.shields.io/badge/STATUS-ONLINE-00F7A5?style=for-the-badge&logo=linux&logoColor=black" />
-<img src="https://img.shields.io/badge/OPEN_TO-OPPORTUNITIES-1687FF?style=for-the-badge" />
-<img src="https://komarev.com/ghpvc/?username=atharv-dhupkar22&style=for-the-badge&color=00F7A5&label=PROFILE+VISITS" />
+[![GitHub](https://img.shields.io/badge/GITHUB-atharv--dhupkar22-00FF41?style=for-the-badge&logo=github&logoColor=black)](https://github.com/atharv-dhupkar22)
+[![Status](https://img.shields.io/badge/SYSTEM-ONLINE-00FF41?style=for-the-badge&logo=linux&logoColor=black)](https://github.com/atharv-dhupkar22)
+[![Open to Work](https://img.shields.io/badge/CAREER-OPEN_TO_WORK-00FF41?style=for-the-badge)](https://github.com/atharv-dhupkar22)
 
-<br/><br/>
-
-[![GitHub](https://img.shields.io/badge/GitHub-atharv--dhupkar22-181717?style=flat-square&logo=github)](https://github.com/atharv-dhupkar22)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/atharv-dhupkar-ba2895286/)
-[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/atharv.dhupkar.22/)
+<img src="https://komarev.com/ghpvc/?username=atharv-dhupkar22&style=flat-square&color=00ff41&label=INCOMING+VISITORS" alt="Profile visitor counter" />
 
 </div>
 
 ---
 
-### `atharv@github:~$ ./system-info`
-
 ```text
-┌─────────────────────────────────────────────────────────────┐
-│                    DEVELOPER PROFILE                        │
-├─────────────────────────────────────────────────────────────┤
-│  USER       : Atharv Amol Dhupkar                            │
-│  ROLE       : Full Stack Developer | Python Developer        │
-│  EDUCATION  : B.E. Electronics & Computer Science             │
-│  INSTITUTE  : S.I.E.S. Graduate School of Technology         │
-│  LOCATION   : Navi Mumbai, India                              │
-│  INTERESTS  : AI/ML, Backend, Full Stack, Cybersecurity       │
-│  STATUS     : Open to Software Development Opportunities     │
-└─────────────────────────────────────────────────────────────┘
+┌─────────────────────────────────────────────────────────────────┐
+│  ATHARV@DEV-STATION                                              │
+├─────────────────────────────────────────────────────────────────┤
+│                                                                 │
+│  [ OK ] INITIALIZING DEVELOPER ENVIRONMENT                       │
+│  [ OK ] LOADING SOFTWARE ENGINEERING MODULES                     │
+│  [ OK ] CONNECTING TO GITHUB                                    │
+│  [ OK ] PYTHON / AI / BACKEND SYSTEMS READY                      │
+│                                                                 │
+│  USER       : Atharv Amol Dhupkar                                │
+│  CLASS      : Software Developer                                │
+│  SPECIALTY  : Python | Full Stack | AI/ML                       │
+│  LOCATION   : Navi Mumbai, India                                 │
+│  OBJECTIVE  : Build. Automate. Innovate.                         │
+│                                                                 │
+│  SYSTEM STATUS: OPERATIONAL_                                     │
+└─────────────────────────────────────────────────────────────────┘
 ```
 
-> I enjoy building practical software, developing backend systems, and exploring AI/ML to solve real-world problems. I focus on writing useful code, learning continuously, and turning ideas into working applications.
+## `01 // ABOUT_ME`
 
-### `atharv@github:~$ cat tech-stack.json`
+```python
+class Developer:
+    def __init__(self):
+        self.name = "Atharv Dhupkar"
+        self.role = "Software Developer"
+        self.education = "B.E. Electronics & Computer Science"
+        self.languages = ["Python", "JavaScript", "TypeScript", "SQL"]
+        self.interests = [
+            "Artificial Intelligence",
+            "Backend Engineering",
+            "Full Stack Development",
+            "Cybersecurity"
+        ]
+        self.mindset = "Learn continuously. Build relentlessly."
+
+    def current_mission(self):
+        return "Turning complex problems into working software."
+
+me = Developer()
+print(me.current_mission())
+```
+
+## `02 // TECH_STACK`
 
 <div align="center">
 
-**LANGUAGES**
+**[ PROGRAMMING LANGUAGES ]**
 
 <img src="https://skillicons.dev/icons?i=python,js,ts,java,html,css&theme=dark" alt="Programming languages" />
 
-**FRONTEND DEVELOPMENT**
+**[ BACKEND & DATABASES ]**
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind&theme=dark" alt="Frontend technologies" />
+<img src="https://skillicons.dev/icons?i=fastapi,nodejs,express,postgres,mongodb,redis&theme=dark" alt="Backend stack" />
 
-**BACKEND & DATABASES**
+**[ FRONTEND ENGINEERING ]**
 
-<img src="https://skillicons.dev/icons?i=fastapi,nodejs,express,postgres,mongodb&theme=dark" alt="Backend technologies" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind&theme=dark" alt="Frontend stack" />
 
-**AI/ML & DEVELOPMENT TOOLS**
+**[ AI / ML & INFRASTRUCTURE ]**
 
-<img src="https://skillicons.dev/icons?i=pytorch,sklearn,git,github,docker,linux,vscode&theme=dark" alt="AI and developer tools" />
+<img src="https://skillicons.dev/icons?i=pytorch,sklearn,docker,git,github,linux,vscode&theme=dark" alt="AI and developer tools" />
 
 </div>
 
----
-
-### `atharv@github:~$ ls -la ~/projects`
+## `03 // PROJECT_DATABASE`
 
 <table>
 <thead>
 <tr>
 <th>PROJECT</th>
-<th>DESCRIPTION</th>
-<th>STACK</th>
+<th>MISSION</th>
+<th>TECHNOLOGY</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td><a href="https://github.com/atharv-dhupkar22/Sign-Language-Detection"><b>Sign Language Detection</b></a></td>
-<td>Real-time sign language recognition and gesture translation.</td>
-<td>Python, MediaPipe, TensorFlow</td>
+<td><a href="https://github.com/atharv-dhupkar22/Sign-Language-Detection">Sign Language Detection</a></td>
+<td>Real-time gesture recognition and sign language translation</td>
+<td>Python · MediaPipe · TensorFlow</td>
 </tr>
 <tr>
-<td><a href="https://github.com/atharv-dhupkar22/Portfolio"><b>Portfolio</b></a></td>
-<td>Personal portfolio showcasing development skills and projects.</td>
-<td>HTML, CSS, JavaScript</td>
+<td><a href="https://github.com/atharv-dhupkar22/Portfolio">Portfolio</a></td>
+<td>Personal developer portfolio</td>
+<td>HTML · CSS</td>
 </tr>
 <tr>
-<td><a href="https://github.com/atharv-dhupkar22/Fun-Fact-Generator22"><b>Fun Fact Generator</b></a></td>
-<td>A simple web application for discovering interesting facts.</td>
-<td>HTML, CSS, JavaScript</td>
+<td><a href="https://github.com/atharv-dhupkar22/Fun-Fact-Generator22">Fun Fact Generator</a></td>
+<td>Interactive web experience</td>
+<td>HTML · CSS · JavaScript</td>
 </tr>
 <tr>
-<td><a href="https://github.com/atharv-dhupkar22/LaptopBuddy"><b>LaptopBuddy</b></a></td>
-<td>Web project focused on laptop-related information and functionality.</td>
-<td>HTML, CSS, JavaScript</td>
+<td><a href="https://github.com/atharv-dhupkar22/LaptopBuddy">LaptopBuddy</a></td>
+<td>Laptop-focused web project</td>
+<td>HTML</td>
 </tr>
 <tr>
 <td><b>PhishRL</b></td>
-<td>AI-assisted phishing detection and automated email threat response.</td>
-<td>Python, Reinforcement Learning, n8n</td>
+<td>AI-assisted phishing detection and automated threat response</td>
+<td>Python · Reinforcement Learning · n8n</td>
 </tr>
 <tr>
 <td><b>Semantic Research Engine</b></td>
-<td>Semantic document search using embeddings and vector retrieval.</td>
-<td>FastAPI, FAISS, NLP</td>
+<td>Semantic document search and vector retrieval</td>
+<td>FastAPI · FAISS · NLP</td>
+</tr>
+<tr>
+<td><b>QuantumShield</b></td>
+<td>Post-quantum secure messaging application</td>
+<td>FastAPI · PostgreSQL · Next.js</td>
 </tr>
 </tbody>
 </table>
 
-### `atharv@github:~$ github --stats`
+## `04 // GITHUB_TELEMETRY`
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=atharv-dhupkar22&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00F7A5&icon_color=00F7A5&text_color=C9D1D9" alt="GitHub statistics" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=atharv-dhupkar22&show_icons=true&hide_border=true&bg_color=050505&title_color=00FF41&icon_color=00FF41&text_color=C9D1D9" alt="GitHub statistics" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atharv-dhupkar22&layout=compact&hide_border=true&bg_color=0D1117&title_color=00F7A5&text_color=C9D1D9&langs_count=8" alt="Most used languages" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atharv-dhupkar22&layout=compact&hide_border=true&bg_color=050505&title_color=00FF41&text_color=C9D1D9&langs_count=8" alt="Most used languages" />
 
 <br/><br/>
 
-<img width="85%" src="https://github-readme-streak-stats.herokuapp.com/?user=atharv-dhupkar22&theme=dark&hide_border=true&background=0D1117&ring=00F7A5&fire=FF6B6B&currStreakLabel=00F7A5" alt="GitHub contribution streak" />
+<img width="85%" src="https://streak-stats.demolab.com?user=atharv-dhupkar22&theme=dark&hide_border=true&background=050505&ring=00FF41&fire=00FF41&currStreakLabel=00FF41" alt="GitHub contribution streak" />
 
 </div>
 
-### `atharv@github:~$ git log --oneline`
+## `05 // TERMINAL_HISTORY`
 
-```text
-feat     : building full-stack applications
-feat     : developing Python backend services
-experiment: exploring AI/ML and intelligent systems
-improve  : learning algorithms and software design
-next     : build something impactful_
+```bash
+$ whoami
+atharv-dhupkar22
+
+$ cat /etc/interests
+> artificial-intelligence
+> backend-engineering
+> full-stack-development
+> cybersecurity
+
+$ git status
+On branch main
+Your skills are continuously evolving.
+
+$ ./next_mission.sh
+[+] Build intelligent applications
+[+] Solve real-world problems
+[+] Learn something new every day
+[+] Ship better software
 ```
 
-### `atharv@github:~$ git status`
-
-- 🔭 Building software, AI and backend projects.
-- 🌱 Exploring AI/ML, APIs, and scalable application development.
-- 🤝 Interested in collaboration and open-source contributions.
-- 🎯 Looking for opportunities to grow as a software developer.
-
-### `atharv@github:~$ connect`
+## `06 // NETWORK_CONNECTIONS`
 
 <div align="center">
 
 <a href="https://github.com/atharv-dhupkar22">
-<img src="https://img.shields.io/badge/GitHub-View_Repositories-181717?style=for-the-badge&logo=github" alt="GitHub repositories" />
+<img src="https://img.shields.io/badge/GITHUB-REPOSITORIES-00FF41?style=for-the-badge&logo=github&logoColor=black" alt="GitHub repositories" />
 </a>
+
 <a href="https://www.linkedin.com/in/atharv-dhupkar-ba2895286/">
-<img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn profile" />
+<img src="https://img.shields.io/badge/LINKEDIN-CONNECT-00FF41?style=for-the-badge&logo=linkedin&logoColor=black" alt="LinkedIn" />
 </a>
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7A5,100:007CF0&height=120&section=footer" width="100%" alt="Animated footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF41,50:003B15,100:000000&height=120&section=footer&animation=fadeIn" width="100%" alt="Animated terminal footer" />
 
-**`BUILD. LEARN. DEBUG. REPEAT.`**
+**`[ END OF TRANSMISSION ]`**
 
-<sub>Thanks for visiting my developer space.</sub>
+<sub>Designed by Atharv Dhupkar | Engineered with curiosity.</sub>
 
 </div>
